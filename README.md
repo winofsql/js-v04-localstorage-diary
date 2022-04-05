@@ -1,0 +1,1 @@
+# js-v04-localstorage-diary
